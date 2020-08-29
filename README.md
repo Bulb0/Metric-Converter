@@ -3,14 +3,14 @@ This programme takes input from command line in order to convert the given multi
 (eg. 1km = 1000m, 1mm = 0.001m etc)
 
 Acceptable multiples:
-T (Tera),
-G (Giga),
-M (Mega),
-k (kilo),
+Tm (Tera),
+Gm (Giga),
+Mm(Mega),
+km (kilo),
 m (meter),
-d (deci),
-c (centi),
-m (milli),
-u (micro),
-n (nano),
-p (pico)
+dm (deci),
+cm (centi),
+mm (milli),
+um (micro),
+nm (nano),
+pm (pico)
